@@ -1,6 +1,6 @@
 ﻿namespace StarsAndStripes
 {
-    internal class Program
+    internal class StarsAndStripes
     {
         private const ConsoleColor Red = ConsoleColor.Red;
         private const ConsoleColor Blue = ConsoleColor.Blue;
